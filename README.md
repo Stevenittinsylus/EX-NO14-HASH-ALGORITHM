@@ -70,6 +70,8 @@ return 0;
 
 ## Output:
 
+<img width="680" height="265" alt="image" src="https://github.com/user-attachments/assets/c9bab2dc-369b-41dc-9626-ea37f70f4e8f" />
+
 
 ## Result:
 The program is executed successfully.
